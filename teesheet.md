@@ -6,36 +6,36 @@ title: tee sheet
 |        |                   | Tobacco Road                                                    |                  |                   |
 | ------ | ----------------- | --------------------------------------------------------------- | ---------------- | ----------------- |
 |        |                   |                                                                 |                  |                   |
-| #NAME? | Kenneth Walsh     | Vs.                                                             | #NAME?           | Alex Brown        |
-| #NAME? | Michael Henebrey  | #NAME?                                                          | Adam Somekh      |
+| ![Canada](https://flagcdn.com/56x42/ca.png)| Kenneth Walsh     | Vs.  | ![Bermuda](https://flagcdn.com/56x42/bm.png)| Alex Brown        |
+| #NAME? | Michael Henebrey  ||![England](https://flagcdn.com/56x42/gb-eng.png)| Adam Somekh      |
 |        |                   |                                                                 |                  |                   |
-| #NAME? | James Nightingale | Vs.                                                             | #NAME?           | Mathew Harling    |
-| #NAME? | Gareth Yeomans    | #NAME?                                                          | Darren Klein     |
+|![England](https://flagcdn.com/56x42/gb-eng.png) | James Nightingale | Vs.                                                             |![England](https://flagcdn.com/56x42/gb-eng.png) | Matthew Harling    |
+| ![Zimbabwe](https://flagcdn.com/56x42/zw.png)| Gareth Yeomans    | ![New Zealand](https://flagcdn.com/56x42/nz.png) | Darren Klein     |
 |        |                   |                                                                 |                  |                   |
 |        |                   | Pinehurst No. 4                                                 |                  |                   |
 |        |                   |                                                                 |                  |                   |
-| #NAME? | Kenneth Walsh     | Vs.                                                             | #NAME?           | James Nightingale |
-| #NAME? | Gareth Yeomans    | #NAME?                                                          | Darren Klein     |
+| ![Canada](https://flagcdn.com/56x42/ca.png) | Kenneth Walsh     | Vs.                                                             | ![England](https://flagcdn.com/56x42/gb-eng.png) | James Nightingale |
+| ![Zimbabwe](https://flagcdn.com/56x42/zw.png)| Gareth Yeomans    | ![New Zealand](https://flagcdn.com/56x42/nz.png) | Darren Klein     |
 |        |                   |                                                                 |                  |                   |
 |        |                   |                                                                 |                  |                   |
-| #NAME? | Mathew Harling    | Vs.                                                             | #NAME?           | Alex Brown        |
-| #NAME? | Adam Somekh       | #NAME?                                                          | Michael Henebrey |
+|![England](https://flagcdn.com/56x42/gb-eng.png) | Mathew Harling    | Vs.                                                             |![Bermuda](https://flagcdn.com/56x42/bm.png)| Alex Brown        |
+| ![England](https://flagcdn.com/56x42/gb-eng.png) | Adam Somekh       | ![South Africa](https://flagcdn.com/56x42/za.png) | Michael Henebrey |
 |        |                   |                                                                 |                  |                   |
 |        |                   | Pinehurst No. 10                                                |                  |                   |
 |        |                   |                                                                 |                  |                   |
-| #NAME? | Kenneth Walsh     | Vs.                                                             | #NAME?           | Mathew Harling    |
-| #NAME? | Darren Klein      | #NAME?                                                          | Michael Henebrey |
+| ![Canada](https://flagcdn.com/56x42/ca.png)| Kenneth Walsh     | Vs.                                                             |![England](https://flagcdn.com/56x42/gb-eng.png) | Matthew Harling    |
+| ![New Zealand](https://flagcdn.com/56x42/nz.png) | Darren Klein      | ![South Africa](https://flagcdn.com/56x42/za.png)| Michael Henebrey |
 |        |                   |                                                                 |                  |                   |
-| #NAME? | James Nightingale | Vs.                                                             | #NAME?           | Alex Brown        |
-| #NAME? | Adam Somekh       | #NAME?                                                          | Gareth Yeomans   |
+| ![England](https://flagcdn.com/56x42/gb-eng.png) | James Nightingale | Vs.                                                             |![Bermuda](https://flagcdn.com/56x42/bm.png)| Alex Brown        |
+| ![England](https://flagcdn.com/56x42/gb-eng.png) | Adam Somekh       | ![Zimbabwe](https://flagcdn.com/56x42/zw.png)| Gareth Yeomans   |
 |        |                   |                                                                 |                  |                   |
 |        |                   | The Cradle                                                      |                  |                   |
 |        |                   | Order to be announced by Teams on the day                       |                  |                   |
 |        | England           |                                                                 |                  | World             |
-| #NAME? | James Nightingale |                                                                 | #NAME?           | Kenneth Walsh     |
-| #NAME? | Adam Somekh       |                                                                 | #NAME?           | Darren Klein      |
-| #NAME? | Mathew Harling    |                                                                 | #NAME?           | Gareth Yeomans    |
-| #NAME? | Alex Brown        |                                                                 | #NAME?           | Michael Henebrey  |
+| ![England](https://flagcdn.com/56x42/gb-eng.png) | James Nightingale | | ![Canada](https://flagcdn.com/56x42/ca.png)          | Kenneth Walsh     |
+| ![England](https://flagcdn.com/56x42/gb-eng.png)  | Adam Somekh       ||![New Zealand](https://flagcdn.com/56x42/nz.png) | Darren Klein      |
+| ![England](https://flagcdn.com/56x42/gb-eng.png)  | Matthew Harling    | | ![Zimbabwe](https://flagcdn.com/56x42/zw.png)| Gareth Yeomans    |
+| ![Bermuda](https://flagcdn.com/56x42/bm.png)| Alex Brown        | | ![South Africa](https://flagcdn.com/56x42/za.png)| Michael Henebrey  |
 |        |                   |                                                                 |                  |                   |
 |        |                   |                                                                 |                  |                   |
 |        |                   | Pinehurst No 8                                                  |                  |                   |
