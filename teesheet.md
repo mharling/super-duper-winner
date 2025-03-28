@@ -6,9 +6,8 @@ title: tee sheet
 
 [Home](home.md)
 
+### Tobacco Road
 
-|        |                   | Tobacco Road                                                    |                  |                   |
-| ------ | ----------------- | :-------------------------------------------------------------: | ---------------- | ----------------- |
 | ![Canada](https://flagcdn.com/56x42/ca.png)| Kenneth Walsh     | Vs.  | ![Bermuda](https://flagcdn.com/56x42/bm.png)| Alex Brown    |
 | ![South Africa](https://flagcdn.com/56x42/za.png) | Michael Henebrey  ||![England](https://flagcdn.com/56x42/gb-eng.png)| Adam Somekh      |
 |        |                   |                                                                 |                  |                   |
@@ -17,9 +16,8 @@ title: tee sheet
 
 
 
+### Pinehurst No. 4 
 
-|        |                   | Pinehurst No. 4                                                 |                  |                   |
-| ------ | ----------------- | :---------------------------------------------------------------: | ---------------- | ----------------- |
 | ![Canada](https://flagcdn.com/56x42/ca.png) | Kenneth Walsh     | Vs.| ![England](https://flagcdn.com/56x42/gb-eng.png) | James Nightingale |
 | ![Zimbabwe](https://flagcdn.com/56x42/zw.png)| Gareth Yeomans   | | ![New Zealand](https://flagcdn.com/56x42/nz.png) | Darren Klein     |
 |        |                   |                                                                 |                  |                   |
@@ -29,9 +27,8 @@ title: tee sheet
 
 
 
+### Pinehurst No. 10 
 
-|        |                   | Pinehurst No. 10                                                |                  |                   |
-| ------ | ----------------- | :---------------------------------------------------------------: | ---------------- | ----------------- |
 | ![Canada](https://flagcdn.com/56x42/ca.png)| Kenneth Walsh     | Vs. |![England](https://flagcdn.com/56x42/gb-eng.png) | Matthew Harling    |
 | ![New Zealand](https://flagcdn.com/56x42/nz.png) | Darren Klein | | ![South Africa](https://flagcdn.com/56x42/za.png)| Michael Henebrey |
 |        |                   |                                                                 |                  |                   |
@@ -40,11 +37,11 @@ title: tee sheet
 
 
 
+### The Cradle 
+*Order to be announced by Teams on the day*
 
-|        |                   | The Cradle                                                      |                  |                   |
-|        |                   | Order to be announced by Teams on the day                       |                  |                   |
-| ------ | ----------------- | :---------------------------------------------------------------: | ---------------- | ----------------- |
 |        | **England**           |                                                                 |                  | **World**            |
+| ------ | ----------------- | :---------------------------------------------------------------: | ---------------- | ----------------- |
 | ![England](https://flagcdn.com/56x42/gb-eng.png) | James Nightingale | | ![Canada](https://flagcdn.com/56x42/ca.png)          | Kenneth Walsh     |
 | ![England](https://flagcdn.com/56x42/gb-eng.png)  | Adam Somekh       ||![New Zealand](https://flagcdn.com/56x42/nz.png) | Darren Klein      |
 | ![England](https://flagcdn.com/56x42/gb-eng.png)  | Matthew Harling    | | ![Zimbabwe](https://flagcdn.com/56x42/zw.png)| Gareth Yeomans    |
@@ -52,7 +49,6 @@ title: tee sheet
 
 
 
+### Pinehurst No 8 
 
-|        |                   | Pinehurst No 8                                                  |                  |                   |
-| ------ | ----------------- | :-------------------------------------------------------------: | ---------------- | ----------------- |
-|        |                   | (TBD) Top 4 Bottom 4 based on Points, every man for themselves! |                  |                   |
+(TBD) Top 4 Bottom 4 based on Points, every man for themselves! 
