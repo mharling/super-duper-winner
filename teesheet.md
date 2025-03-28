@@ -4,7 +4,7 @@ title: tee sheet
 
 ## Tee Sheet
 
-[Home](home.md)
+[Home](index.md)
 
 ### Tobacco Road
 
