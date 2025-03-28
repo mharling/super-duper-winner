@@ -21,7 +21,6 @@ title: tee sheet
 | ![Canada](https://flagcdn.com/56x42/ca.png) | Kenneth Walsh     | Vs.| ![England](https://flagcdn.com/56x42/gb-eng.png) | James Nightingale |
 | ![Zimbabwe](https://flagcdn.com/56x42/zw.png)| Gareth Yeomans   | | ![New Zealand](https://flagcdn.com/56x42/nz.png) | Darren Klein     |
 |        |                   |                                                                 |                  |                   |
-|        |                   |                                                                 |                  |                   |
 |![England](https://flagcdn.com/56x42/gb-eng.png) | Mathew Harling    | Vs.|![Bermuda](https://flagcdn.com/56x42/bm.png)| Alex Brown        |
 | ![England](https://flagcdn.com/56x42/gb-eng.png) | Adam Somekh       || ![South Africa](https://flagcdn.com/56x42/za.png) | Michael Henebrey |
 
