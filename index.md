@@ -17,3 +17,14 @@ This site provides the official scoring for the 2025 Pinehurst trip, incorporati
 | ![Zimbabwe](https://flagcdn.com/56x42/zw.png)     | Gareth Yeomans    |              |                 |                  |            |                | 0       |
 | ![England](https://flagcdn.com/56x42/gb-eng.png)     | Adam Somekh       |              |                 |                  |            |                | 0       |
 | ![South Africa](https://flagcdn.com/56x42/za.png)      | Michael Henebrey  |              |                 |                  |            |                | 0       |
+
+
+|[Rules](rules.md)|[Tee-Sheet](teesheet.md)|
+
+
+
+
+
+
+
+
