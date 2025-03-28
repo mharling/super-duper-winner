@@ -4,8 +4,13 @@ title: Home
 
 ## Welcome to the 2025 Pinehurst Leaderboard
 
+
+
 This site provides the official scoring for the 2025 Pinehurst trip, incorporating DK's 40th Birthday.
 
+
+
+### Leaderboard
 
 | Nationality | Player            | Tobacco Road | Pinehurst No. 4 | Pinehurst No. 10 | The Cradle | Pinehurst No 8 | Overall |
 | ----------- | ----------------- | ------------ | --------------- | ---------------- | ---------- | -------------- | ------- |
@@ -18,6 +23,10 @@ This site provides the official scoring for the 2025 Pinehurst trip, incorporati
 | ![England](https://flagcdn.com/56x42/gb-eng.png)     | Adam Somekh       |              |                 |                  |            |                | 0       |
 | ![South Africa](https://flagcdn.com/56x42/za.png)      | Michael Henebrey  |              |                 |                  |            |                | 0       |
 
+
+
+
+#### Rules and Tee Sheets
 
 |[Rules](rules.md)|[Tee-Sheet](teesheet.md)|
 
