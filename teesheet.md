@@ -9,10 +9,10 @@ title: tee sheet
 ### Tobacco Road
 
 | ![Canada](https://flagcdn.com/56x42/ca.png)| Kenneth Walsh     | Vs.  | ![Bermuda](https://flagcdn.com/56x42/bm.png)| Alex Brown    |
-| ![South Africa](https://flagcdn.com/56x42/za.png) | Michael Henebrey  ||![England](https://flagcdn.com/56x42/gb-eng.png)| Adam Somekh      |
+| ![South Africa](https://flagcdn.com/56x42/za.png) | Michael Henebrey  |2-1|![England](https://flagcdn.com/56x42/gb-eng.png)| Adam Somekh      |
 |        |                   |                                                                 |                  |                   |
 |![England](https://flagcdn.com/56x42/gb-eng.png) | James Nightingale | Vs.|![England](https://flagcdn.com/56x42/gb-eng.png) | Matthew Harling    |
-| ![Zimbabwe](https://flagcdn.com/56x42/zw.png)| Gareth Yeomans    | | ![New Zealand](https://flagcdn.com/56x42/nz.png) | Darren Klein     |
+| ![Zimbabwe](https://flagcdn.com/56x42/zw.png)| Gareth Yeomans    |2-1| ![New Zealand](https://flagcdn.com/56x42/nz.png) | Darren Klein     |
 
 
 
