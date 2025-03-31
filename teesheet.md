@@ -50,4 +50,11 @@ title: tee sheet
 
 ### Pinehurst No 8 
 
-(TBD) Top 4 Bottom 4 based on Points, every man for themselves! 
+*Top 4 Bottom 4 based on Points, every man for themselves!*
+
+|        | **Group 1**           |                                                                 |                  | **Group 2**            |
+| —— | —————— | :—————————————————————: | -————— | —————— |
+| ![England](https://flagcdn.com/56x42/bmu.png) | Alex Brown | | ![Canada](https://flagcdn.com/56x42/gb-eng.png)          | Matthew Harling |
+| ![England](https://flagcdn.com/56x42/ca.png)  | Kenneth Walsh ||![New Zealand](https://flagcdn.com/56x42/nz.png) | Darren Klein      |
+| ![England](https://flagcdn.com/56x42/zw.png)  | Gareth Yeomans | | ![Zimbabwe](https://flagcdn.com/56x42/gb-eng.png)| Adam Somekh |
+| ![Bermuda](https://flagcdn.com/56x42/za.png)|Michael Henebrey| | ![South Africa](https://flagcdn.com/56x42/gb-eng.png)| James Nightingale |
